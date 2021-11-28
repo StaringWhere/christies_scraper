@@ -8,7 +8,7 @@ import time
 from requests.exceptions import ProxyError
 
 
-# ---- Parameters ----
+# ----- Parameters -----
 # Filename
 name = "sanyu"
 # URL of lots information JSON (no matter which page)
