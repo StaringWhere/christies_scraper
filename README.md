@@ -1,4 +1,4 @@
-# Christie's Crawler
+# Christie's Scraper
 
 Get the details of lots on christie's and write them into an excel sheet.
 
@@ -14,5 +14,5 @@ Get the details of lots on christie's and write them into an excel sheet.
 
    It's a fetch request sent during searching, similar to `https://www.christies.com/api/discoverywebsite/search/lot-infos?keyword=...`
 
-3. Modify the parameters in `christies_crawler.py`
-4. run `christies_crawler.py`
+3. Modify the parameters in `christies_scraper.py`
+4. run `christies_scraper.py`
